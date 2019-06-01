@@ -15,7 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <distributionManagement?
+  <distributionManagement>
 	  <repository>
 	    <id>zcard-releases</id>
 	    <name>zcard-releases</name>
